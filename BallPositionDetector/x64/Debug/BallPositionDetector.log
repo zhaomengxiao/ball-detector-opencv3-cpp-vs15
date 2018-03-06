@@ -1,0 +1,3 @@
+﻿  BallPositionDetector.cpp
+e:\users\yj\desktop\balldetect\ballpositiondetector\ballpositiondetector\ballpositiondetector.cpp(196): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  BallPositionDetector.vcxproj -> E:\Users\yj\Desktop\BALLDETECT\BallPositionDetector\x64\Debug\BallPositionDetector.exe
